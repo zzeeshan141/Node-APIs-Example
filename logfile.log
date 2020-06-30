@@ -1,0 +1,2212 @@
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:20:39.048Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:26:22.192Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:27:32.173Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:28:32.385Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:31:10.934Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:32:59.698Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:32:59.744Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:33:58.751Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:33:58.791Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:34:12.474Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:34:12.514Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:40:59.406Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:40:59.455Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:41:16.182Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:41:16.223Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:43:23.744Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:43:23.794Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:44:40.035Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:44:40.077Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:48:05.530Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:48:05.585Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:50:36.262Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:50:36.299Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:50:45.119Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:50:45.161Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T12:50:52.499Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T12:50:52.538Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:07:46.367Z' }
+{ message: 'Connected to MongoDB...',
+  level: 'info',
+  timestamp: '2020-06-02T14:07:46.410Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:17:22.217Z' }
+{ message: 'Connected to mongodb://localhost/vidly...',
+  level: 'info',
+  timestamp: '2020-06-02T14:17:22.253Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:23:07.817Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:23:07.849Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:37:52.579Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:37:52.603Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:37:52.663Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:38:09.681Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:38:09.705Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:38:09.723Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:41:14.163Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:41:14.188Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:41:14.206Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:44:29.433Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:44:29.459Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:44:29.482Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:46:16.256Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:46:16.278Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:46:16.315Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:46:51.016Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:46:51.038Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:46:51.067Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:48:48.122Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:48:48.143Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:48:48.174Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:49:10.334Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:49:10.357Z' }
+{ metadata:
+   Error: Could not load the my genres.
+       at router.get (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\genres.js:9:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at jsonParser (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\body-parser\lib\types\json.js:110:7)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at expressInit (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\init.js:40:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at query (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\middleware\query.js:45:5)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\application.js:174:10)
+       at Server.app (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\express.js:39:9)
+       at Server.emit (events.js:198:13)
+       at parserOnIncoming (_http_server.js:677:12)
+       at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17),
+  level: 'error',
+  message: 'Could not load the my genres.',
+  timestamp: '2020-06-02T14:49:10.374Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:49:30.906Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:49:30.934Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:50:43.854Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:50:43.875Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:51:15.330Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:51:15.352Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:52:42.313Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:52:42.343Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:52:56.718Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:52:56.740Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:53:11.417Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:53:11.439Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:59:07.893Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:59:07.914Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T14:59:32.503Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T14:59:32.524Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T15:01:11.626Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T15:01:11.651Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T15:01:28.627Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T15:01:28.648Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-02T15:01:47.721Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-02T15:01:47.743Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:15:00.552Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:15:00.583Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:17:03.655Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:17:03.675Z' }
+{ metadata:
+   { CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+       at model.Query.exec (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4341:21)
+       at model.Query.Query.then (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4433:15)
+       at process._tickCallback (internal/process/next_tick.js:68:7)
+     messageFormat: undefined,
+     stringValue: '"1"',
+     kind: 'ObjectId',
+     value: '1',
+     path: '_id',
+     reason:
+      Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+          at new ObjectID (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\bson\lib\bson\objectid.js:59:11)
+          at castObjectId (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schema\objectid.js:267:12)
+          at ObjectId.SchemaType.applySetters (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1031:12)
+          at ObjectId.SchemaType._castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1459:15)
+          at ObjectId.SchemaType.castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1449:15)
+          at ObjectId.SchemaType.castForQueryWrapper (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1428:15)
+          at cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast.js:326:32)
+          at model.Query.Query.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4730:12)
+          at model.Query.Query._castConditions (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:1861:10)
+          at model.Query.<anonymous> (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:2118:8)
+          at model.Query._wrappedThunk [as _findOne] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+          at process.nextTick (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\node_modules\kareem\index.js:369:33)
+          at process._tickCallback (internal/process/next_tick.js:61:11) },
+  level: 'error',
+  message:
+   'Cast to ObjectId failed for value "1" at path "_id" for model "Genre"',
+  timestamp: '2020-06-03T07:17:03.736Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:20:21.178Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:20:21.210Z' }
+{ metadata:
+   { CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+       at model.Query.exec (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4341:21)
+       at model.Query.Query.then (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4433:15)
+       at process._tickCallback (internal/process/next_tick.js:68:7)
+     messageFormat: undefined,
+     stringValue: '"1"',
+     kind: 'ObjectId',
+     value: '1',
+     path: '_id',
+     reason:
+      Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+          at new ObjectID (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\bson\lib\bson\objectid.js:59:11)
+          at castObjectId (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schema\objectid.js:267:12)
+          at ObjectId.SchemaType.applySetters (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1031:12)
+          at ObjectId.SchemaType._castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1459:15)
+          at ObjectId.SchemaType.castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1449:15)
+          at ObjectId.SchemaType.castForQueryWrapper (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1428:15)
+          at cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast.js:326:32)
+          at model.Query.Query.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4730:12)
+          at model.Query.Query._castConditions (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:1861:10)
+          at model.Query.<anonymous> (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:2118:8)
+          at model.Query._wrappedThunk [as _findOne] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+          at process.nextTick (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\node_modules\kareem\index.js:369:33)
+          at process._tickCallback (internal/process/next_tick.js:61:11) },
+  level: 'error',
+  message:
+   'Cast to ObjectId failed for value "1" at path "_id" for model "Genre"',
+  timestamp: '2020-06-03T07:20:21.294Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:21:36.944Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:21:36.964Z' }
+{ metadata:
+   { CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+       at model.Query.exec (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4341:21)
+       at model.Query.Query.then (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4433:15)
+       at process._tickCallback (internal/process/next_tick.js:68:7)
+     messageFormat: undefined,
+     stringValue: '"1"',
+     kind: 'ObjectId',
+     value: '1',
+     path: '_id',
+     reason:
+      Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+          at new ObjectID (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\bson\lib\bson\objectid.js:59:11)
+          at castObjectId (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schema\objectid.js:267:12)
+          at ObjectId.SchemaType.applySetters (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1031:12)
+          at ObjectId.SchemaType._castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1459:15)
+          at ObjectId.SchemaType.castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1449:15)
+          at ObjectId.SchemaType.castForQueryWrapper (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1428:15)
+          at cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast.js:326:32)
+          at model.Query.Query.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4730:12)
+          at model.Query.Query._castConditions (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:1861:10)
+          at model.Query.<anonymous> (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:2118:8)
+          at model.Query._wrappedThunk [as _findOne] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+          at process.nextTick (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\node_modules\kareem\index.js:369:33)
+          at process._tickCallback (internal/process/next_tick.js:61:11) },
+  level: 'error',
+  message:
+   'Cast to ObjectId failed for value "1" at path "_id" for model "Genre"',
+  timestamp: '2020-06-03T07:21:37.022Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:23:08.833Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:23:08.852Z' }
+{ metadata:
+   { CastError: Cast to ObjectId failed for value "1" at path "_id" for model "Genre"
+       at model.Query.exec (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4341:21)
+       at model.Query.Query.then (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4433:15)
+       at process._tickCallback (internal/process/next_tick.js:68:7)
+     messageFormat: undefined,
+     stringValue: '"1"',
+     kind: 'ObjectId',
+     value: '1',
+     path: '_id',
+     reason:
+      Error: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+          at new ObjectID (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\bson\lib\bson\objectid.js:59:11)
+          at castObjectId (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast\objectid.js:25:12)
+          at ObjectId.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schema\objectid.js:267:12)
+          at ObjectId.SchemaType.applySetters (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1031:12)
+          at ObjectId.SchemaType._castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1459:15)
+          at ObjectId.SchemaType.castForQuery (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1449:15)
+          at ObjectId.SchemaType.castForQueryWrapper (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\schematype.js:1428:15)
+          at cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\cast.js:326:32)
+          at model.Query.Query.cast (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:4730:12)
+          at model.Query.Query._castConditions (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:1861:10)
+          at model.Query.<anonymous> (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\query.js:2118:8)
+          at model.Query._wrappedThunk [as _findOne] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+          at process.nextTick (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\mongoose\node_modules\kareem\index.js:369:33)
+          at process._tickCallback (internal/process/next_tick.js:61:11) },
+  level: 'error',
+  message:
+   'Cast to ObjectId failed for value "1" at path "_id" for model "Genre"',
+  timestamp: '2020-06-03T07:23:08.909Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:24:16.033Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:24:16.061Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:25:03.899Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:25:03.927Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:25:16.832Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:25:16.856Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:26:10.953Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:26:10.975Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:30:29.328Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:30:29.349Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:31:03.714Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:31:03.743Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:31:18.580Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:31:18.601Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:35:55.213Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:35:55.233Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:40:12.593Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:40:12.615Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:40:53.116Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:40:53.135Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:41:20.092Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:41:20.112Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:44:34.832Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:44:34.852Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:49:52.990Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:49:53.011Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T07:50:16.941Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T07:50:16.962Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:01:51.442Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:01:51.464Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:02:36.570Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:02:36.609Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:04:22.137Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:04:22.165Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:12:30.622Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:12:30.666Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:13:20.916Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:13:20.936Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:13:21.277Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:13:21.323Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:17:06.449Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:17:06.470Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:17:06.824Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:17:06.868Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:19:12.510Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:19:12.550Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:19:12.541Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:19:12.624Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:20:47.165Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:20:47.186Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:20:47.513Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:20:47.558Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:52:44.291Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:52:44.346Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T08:52:44.376Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T08:52:44.379Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:01:45.277Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:01:45.301Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:01:45.326Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:01:45.389Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:05.381Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:05.403Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:05.407Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:05.453Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:24.462Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:24.482Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:24.503Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:02:24.552Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:03:31.603Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:03:31.623Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:03:31.651Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:03:31.700Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:04:39.161Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:04:39.182Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:04:39.171Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:04:39.223Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:29.687Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:29.739Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:29.771Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:29.799Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:50.356Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:50.403Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:50.425Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:07:50.452Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:09:15.011Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:09:15.027Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:09:15.051Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:09:15.081Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:13.263Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:13.284Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:13.304Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:13.351Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:31.147Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:31.195Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:31.195Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:11:31.214Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:11.048Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:11.089Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:11.105Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:11.122Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:43.596Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:43.650Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:43.891Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:12:43.912Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:23.767Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:23.789Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:23.840Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:23.897Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:42.111Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:42.205Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:42.252Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:15:42.292Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:16:22.613Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:16:22.685Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:16:22.713Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:16:22.724Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:17:05.160Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:17:05.201Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:17:05.179Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:17:05.272Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:20:23.220Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:20:23.262Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:20:23.261Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:20:23.404Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:21:53.537Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:21:53.595Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T09:21:53.652Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T09:21:53.814Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T10:57:24.837Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T10:57:24.876Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T10:57:24.893Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T10:57:24.908Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T10:58:41.595Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T10:58:41.650Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T10:58:41.691Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T10:58:41.711Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:02:40.917Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:02:40.951Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:02:40.965Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:02:40.966Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:07:03.616Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:07:03.638Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:07:03.632Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:07:03.680Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:01.098Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:01.149Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:01.483Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:01.503Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:38.187Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:38.243Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:38.254Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:08:38.289Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:09:46.942Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:09:46.990Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:09:47.042Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:09:47.059Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:11:08.973Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:11:08.994Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:11:09.000Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:11:09.057Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:40.579Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:40.625Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:40.641Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:40.657Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:53.798Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:53.826Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:54.686Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:15:54.732Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:16:45.950Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:16:45.973Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:16:46.872Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:16:46.907Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:20:57.058Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:20:57.086Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:20:57.981Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:20:58.025Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:21:35.290Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:21:35.313Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:21:36.284Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:21:36.319Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:23:23.842Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:23:23.865Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:23:24.747Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:23:24.789Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:35.808Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:35.840Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:36.781Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:36.820Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:48.760Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:48.788Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:49.676Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:31:49.721Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:32:05.773Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:32:05.797Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:32:06.673Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:32:06.758Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:34:39.056Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:34:39.079Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:34:39.966Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:34:40.007Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:35:57.112Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:35:57.149Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:35:58.046Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:35:58.094Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:45.205Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:45.225Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:46.131Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:46.163Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:58.662Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:58.695Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:59.566Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T11:37:59.610Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T12:57:40.339Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T12:57:40.369Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T12:57:41.312Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T12:57:41.356Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:04:16.101Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:04:16.119Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:04:17.060Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:04:17.095Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:01.687Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:01.710Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:02.661Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:02.697Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:30.316Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:30.338Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:31.318Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:31.355Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:32.993Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:06:33.018Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:09:57.560Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:09:57.582Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:09:58.497Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:09:58.572Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:09:59.449Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:09:59.473Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:27:10.206Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:27:10.227Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:27:11.065Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:27:11.100Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:27:11.837Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:27:11.880Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:29:26.436Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:29:26.462Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:29:27.282Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:29:27.303Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:29:28.113Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:29:28.152Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:17.916Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:17.984Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:17.984Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:18.023Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:54.718Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:54.745Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:55.610Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:55.641Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:56.430Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:30:56.468Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:26.286Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:26.307Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:27.185Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:27.222Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:27.953Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:27.976Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:39.370Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:39.406Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:39.416Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:35:39.507Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:38:52.307Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:38:52.367Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:38:53.159Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:38:53.185Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:38:53.931Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:38:53.953Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:46:30.554Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:46:30.594Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:46:31.424Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:46:31.448Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:46:32.260Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:46:32.287Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:03.940Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:03.989Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:04.869Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:04.890Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:41.571Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:41.619Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:42.410Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:42.433Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:44.420Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:54:44.450Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:55:06.737Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:55:06.763Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:55:07.669Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:55:07.706Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:55:08.487Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:55:08.506Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:59:57.581Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:59:57.606Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:59:58.386Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:59:58.440Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T13:59:59.300Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T13:59:59.324Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:00:59.448Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:00:59.479Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:01:00.780Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:01:00.798Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:01:01.570Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:01:01.608Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:03:27.705Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:03:27.730Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:03:28.604Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:03:28.623Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:03:29.454Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:03:29.507Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:07:05.662Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:07:05.688Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:07:06.679Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:07:06.701Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:07:07.555Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:07:07.590Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:13:48.637Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:13:48.665Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:13:49.604Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:13:49.642Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:14:07.847Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:14:07.867Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:14:08.985Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:14:09.066Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:14:10.750Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:14:10.774Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:17.588Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:17.622Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:18.509Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:18.535Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:19.369Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:19.400Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:51.520Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:51.546Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:52.680Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:52.706Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:53.921Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:21:53.954Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:44:58.631Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:44:58.658Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:44:59.646Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:44:59.666Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:00.552Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:00.586Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:13.535Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:13.571Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:14.555Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:14.582Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:15.473Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:45:15.505Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:46:37.777Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:46:37.801Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:46:38.683Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:46:38.702Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:46:39.558Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:46:39.590Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:47:44.264Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:47:44.301Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:47:45.283Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:47:45.303Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:47:46.133Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:47:46.164Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:28.009Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:28.059Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:29.056Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:29.075Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:29.943Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:30.000Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:54.838Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:54.878Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:55.903Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:55.937Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:56.670Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:48:56.693Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:49:31.680Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:49:31.704Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:49:32.598Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:49:32.617Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:49:33.427Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:49:33.460Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:56:38.236Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:56:38.263Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:56:39.213Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:56:39.233Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:56:40.218Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:56:40.252Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:58:36.706Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:58:36.731Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:58:37.820Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:58:37.855Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T14:58:38.700Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T14:58:38.738Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T15:01:58.468Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T15:01:58.496Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.555Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.583Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.593Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.605Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.615Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.624Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.642Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.653Z' }
+{ metadata:
+   TypeError: Joi.ObjectId is not a function
+       at validateReturn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:34:23)
+       at router.post (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\routes\returns.js:10:23)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at module.exports (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\middleware\auth.js:11:9)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:137:13)
+       at Route.dispatch (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\route.js:112:3)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:281:22
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12)
+       at next (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:275:10)
+       at Function.handle (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:174:3)
+       at router (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:47:12)
+       at newFn (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express-async-errors\index.js:16:20)
+       at Layer.handle [as handle_request] (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\layer.js:95:5)
+       at trim_prefix (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:317:13)
+       at E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:284:7
+       at Function.process_params (E:\Training\CodeWithMosh - The Complete Node.js Course\Practice\vidly\node_modules\express\lib\router\index.js:335:12),
+  level: 'error',
+  message: 'Joi.ObjectId is not a function',
+  timestamp: '2020-06-03T15:01:58.663Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T15:01:59.565Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T15:01:59.593Z' }
+{ message: 'Listening on port 3000...',
+  level: 'info',
+  timestamp: '2020-06-03T15:02:00.514Z' }
+{ message: 'Connected to mongodb://localhost/vidly_test...',
+  level: 'info',
+  timestamp: '2020-06-03T15:02:00.551Z' }

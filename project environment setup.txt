@@ -1,0 +1,21 @@
+==> add belo environment variables:
+$Env:vidly_jwtPrivateKey="MySecreteKey"
+
+==> run mongo db it should be ruuning by default. if not then use command in powershell
+mongod
+
+==> open another powersher and use command to run node apis
+node index.js
+
+
+
+
+==> to run test cases use commands
+=> command to set environment to test so that node pick the test database
+$Env:NODE_ENV="test"
+
+=> to run all test cases use command
+npm test
+
+
+==>
